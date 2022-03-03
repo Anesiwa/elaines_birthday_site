@@ -6,7 +6,6 @@
 }
 .App-header {
   padding-top: 60px;
-  background-color: #008037;
 }
 
 h1 {
@@ -17,5 +16,5 @@ h2 {
 }
 
 .Header p {
-  font-size: 50px;
+  font-size: 60px;
 }
