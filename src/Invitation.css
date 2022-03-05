@@ -1,8 +1,6 @@
 .Invitation {
   background-color: black;
-  color: white;
 }
 .Invitation video {
-  object-fit: fill;
-  max-width: 900px;
+  width: 100%;
 }

@@ -5,7 +5,14 @@ import video from "./invite_video.mp4";
 export default function Invitation() {
   return (
     <div className="Invitation video-container">
-      <video controls autoPlay loop playsInline src={video}></video>
+      <video
+        controls
+        autoPlay
+        loop
+        playsInline
+        src={video}
+        className="invitation-video"
+      ></video>
     </div>
   );
 }

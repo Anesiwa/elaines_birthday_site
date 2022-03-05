@@ -3,8 +3,26 @@
   background-color: #008037;
   margin: 0 auto;
   padding-top: 60px;
+  display: flex;
 }
 
 h1 {
-  font-size: 100px;
+  font-size: 90px;
+  color: black;
+}
+
+@media (max-width: 800px) {
+  .App {
+    text-align: center;
+    background-color: #008037;
+    margin: 0 auto;
+    padding-top: 30px;
+    display: flex;
+  }
+  H1 {
+    font-size: 30px;
+  }
+  .invitation-video {
+    display: flex;
+  }
 }

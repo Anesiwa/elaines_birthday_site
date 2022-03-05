@@ -1,3 +1,13 @@
 .Eventbrite {
   background-color: #d4b057;
+  width: max-content;
+  margin: 0 auto;
+}
+
+a {
+  color: green;
+}
+button {
+  margin: 20px;
+  padding: 10px;
 }

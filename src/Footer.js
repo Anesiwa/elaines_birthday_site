@@ -55,10 +55,10 @@ export default function Footer() {
             </div>
           </div>
           <div className="row mt-2">
-            <div className="col-3">Built with React</div>
-            <div className="col-3">Coded by Amelia Arku</div>
-            <div className="col-3">Open-sourced on Github</div>
-            <div className="col-3">Hosted on Netlify</div>
+            <div className="col-3 footer-info">Built with React</div>
+            <div className="col-3 footer-info">Coded by Amelia Arku</div>
+            <div className="col-3 footer-info">Open-sourced on Github</div>
+            <div className="col-3 footer-info">Hosted on Netlify</div>
           </div>
         </div>
       </footer>

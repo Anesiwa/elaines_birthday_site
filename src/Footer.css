@@ -4,7 +4,21 @@
 }
 .Footer {
   margin-top: 10px;
-  padding: 10px 0 10px 0;
+  padding: 10px 0;
   font-weight: 500;
   background-color: #f1f1f2;
+}
+
+@media (max-width: 800px) {
+  .Footer-logos {
+    width: 25px;
+    padding-top: 2px;
+  }
+  .Footer {
+    font-weight: 500;
+    font-size: smaller;
+  }
+  .footer-info {
+    font-size: smaller;
+  }
 }
