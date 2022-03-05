@@ -34,7 +34,7 @@ export default function Footer() {
             </div>
             <div className="col-3">
               <a
-                href="https://github.com/Anesiwa/dictionary-project-prelim"
+                href="https://github.com/Anesiwa/elaines_birthday_site"
                 target="_blank"
                 rel="noopener noreferrer"
               >
