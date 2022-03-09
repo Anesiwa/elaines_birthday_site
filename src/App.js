@@ -11,7 +11,6 @@ function App() {
           <h1>Elaine's Sassy Sixty</h1>
         </header>
         <Invitation />
-        <br />
         <Eventbrite />
         <Footer />
       </div>
