@@ -1,6 +1,13 @@
 .Invitation {
-  background-color: black;
+  padding: 10px;
+  background-color: #f1f1f2;
 }
 .Invitation video {
   width: 100%;
+}
+@media (max-width: 800px) {
+  .Invitation {
+    padding: 5px;
+    background-color: #f1f1f2;
+  }
 }
