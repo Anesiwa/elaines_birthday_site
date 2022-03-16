@@ -2,6 +2,7 @@
   background-color: #d4b057;
   width: max-content;
   margin: 0 auto;
+  border-radius: 5px;
 }
 a {
   color: green;
@@ -9,13 +10,6 @@ a {
 button {
   margin: 20px;
   padding: 10px;
-  border-radius: 5px;
-}
-button:hover {
-  margin: 20px;
-  padding: 10px;
-  background-color: black;
-  border: #f1f1f2;
   border-radius: 5px;
 }
 

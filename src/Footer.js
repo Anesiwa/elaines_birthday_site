@@ -11,7 +11,7 @@ export default function Footer() {
       <footer className="text-center mt-2 mb-4">
         <div className="Footer">
           <div className="footer-info">
-            Want a personalized website and video for your next event?
+            Want a personalized website and/or video for your next event?
             <div>
               Contact{" "}
               <a
