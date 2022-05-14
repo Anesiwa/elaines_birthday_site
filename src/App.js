@@ -1,6 +1,7 @@
 import "./App.css";
 import Eventbrite from "./Eventbrite";
 import Invitation from "./Invitation";
+import Photos from "./Photos";
 import Footer from "./Footer";
 
 function App() {
@@ -12,6 +13,7 @@ function App() {
         </header>
         <Invitation />
         <Eventbrite />
+        <Photos />
         <Footer />
       </div>
     </div>
