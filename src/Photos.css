@@ -1,3 +1,21 @@
+p {
+  color: white;
+  font-size: 14px;
+  text-align: center;
+}
 a {
-  color: black;
+  color: green;
+}
+.Photos {
+  background-color: black;
+  border-radius: 5px;
+  padding: 5px;
+  margin: 0 auto;
+}
+
+@media (max-width: 800px) {
+  p,
+  a {
+    font-size: smaller;
+  }
 }

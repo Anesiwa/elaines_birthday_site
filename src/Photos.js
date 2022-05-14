@@ -5,13 +5,13 @@ export default function Photos() {
   return (
     <div className="Photos">
       <p>
-        {" "}
-        Have some Photos from the party? Share them
+        Have some photos from the party? Share them with Elaine
         <a
-          href="https://www.eventbrite.com/e/elaines-sassy-sixty-tickets-278094948477"
+          href="https://photos.app.goo.gl/dM5FpJGDCMmjeEru5"
           rel="noopener noreferrer"
           target="_blank"
         >
+          {" "}
           here
         </a>
       </p>
